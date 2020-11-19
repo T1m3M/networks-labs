@@ -13,3 +13,5 @@ The client enters a name, the server replies with his/her grade
 
 ## UDP
 The client supplies the PC host name on the network, the server replies with it's IP address
+
+*Note: I used eclipse IDE for java developers in this code*
