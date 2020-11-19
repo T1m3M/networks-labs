@@ -1,5 +1,5 @@
-### Netowrks Labs
-# Coded: April 2020
+# Netowrks Labs
+### Coded: April 2020
 
 ## Description
 This was Assignment-1 part of the Networks-1 Course in FCAI-CU
